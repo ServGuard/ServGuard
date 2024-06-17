@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["ServGuard"];
+const statusMessages = [" "];
 
 
 let currentIndex = 0;
