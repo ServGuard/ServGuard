@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = [""];
+const statusMessages = ["Moderating Servers"];
 
 
 let currentIndex = 0;
